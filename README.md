@@ -1,2 +1,2 @@
-# M-dulo2-_pythonBasics
+# modulo2_pythonBasics
 Lets Code Exercises
